@@ -1,6 +1,6 @@
-## Electron + TypeScript + React
+## AppQuiz
 
-Boilerplate for a project using Electron, React and Typescript.
+Aplicação desktop usando ReactJS, TypeScript, Styled-Compenents, ElectronJS.
 
 ## Installation
 
@@ -26,9 +26,10 @@ To generate the project package based on the OS you're running on, just run:
 yarn package
 ```
 
-## Contributing
+## Template
 
-Pull requests are always welcome 😃.
+Template criado por Diego Fernandes.
+<a href="https://github.com/diego3g/electron-typescript-react">Link do repositório</a>
 
 ## License
 
