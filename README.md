@@ -28,7 +28,7 @@ yarn package
 
 ## Template
 
-Template criado por Diego Fernandes.
+Template criado por <a href="https://github.com/diego3g" target="_blank">@Diego Fernandes. </a><br />
 <a href="https://github.com/diego3g/electron-typescript-react">Link do repositório</a>
 
 ## License
